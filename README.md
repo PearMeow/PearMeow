@@ -1,5 +1,4 @@
--I’m @PearMeow
--I’m a Stuy student who like computer science.
+-I’m @PearMeow or Perry. I’m a Stuy student who like computer science.
 
 <!---
 PearMeow/PearMeow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
