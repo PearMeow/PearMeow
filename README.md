@@ -1,4 +1,4 @@
--I’m Perry, a stuy guy who likes comp sci.
+Hello! I'm Perry, a CS major at NYU. 
 
 <!---
 PearMeow/PearMeow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
